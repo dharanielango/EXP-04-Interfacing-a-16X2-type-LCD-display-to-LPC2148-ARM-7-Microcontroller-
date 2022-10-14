@@ -196,9 +196,9 @@ int main(void)
 ## Proteus simulation 
 
 ### PCD off
-![o](1.png)
-### PCD on
 ![o](11.png)
+### PCD on
+![o](1.png)
 
 ##  layout Diagram 
 ![o](111.png)
